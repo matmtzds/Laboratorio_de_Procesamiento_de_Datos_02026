@@ -1,0 +1,37 @@
+,nombre_comun,nombre_cientifico,Zona,luz,Precio,disponibilidad
+0,Bloodroot,Sanguinaria canadensis,4,Mostly Shady,$2.44,031599
+1,Columbine,Aquilegia canadensis,3,Mostly Shady,$9.37,030699
+2,Marsh Marigold,Caltha palustris,4,Mostly Sunny,$6.81,051799
+3,Cowslip,Caltha palustris,4,Mostly Shady,$9.90,030699
+4,Dutchman's-Breeches,Dicentra cucullaria,3,Mostly Shady,$6.44,012099
+5,"Ginger, Wild",Asarum canadense,3,Mostly Shady,$9.03,041899
+6,Hepatica,Hepatica americana,4,Mostly Shady,$4.45,012699
+7,Liverleaf,Hepatica americana,4,Mostly Shady,$3.99,010299
+8,Jack-In-The-Pulpit,Arisaema triphyllum,4,Mostly Shady,$3.23,020199
+9,Mayapple,Podophyllum peltatum,3,Mostly Shady,$2.98,060599
+10,"Phlox, Woodland",Phlox divaricata,3,Sun or Shade,$2.80,012299
+11,"Phlox, Blue",Phlox divaricata,3,Sun or Shade,$5.59,021699
+12,Spring-Beauty,Claytonia Virginica,7,Mostly Shady,$6.59,020199
+13,Trillium,Trillium grandiflorum,5,Sun or Shade,$3.90,042999
+14,Wake Robin,Trillium grandiflorum,5,Sun or Shade,$3.20,022199
+15,"Violet, Dog-Tooth",Erythronium americanum,4,Shade,$9.04,020199
+16,Trout Lily,Erythronium americanum,4,Shade,$6.94,032499
+17,Adder's-Tongue,Erythronium americanum,4,Shade,$9.58,041399
+18,Anemone,Anemone blanda,6,Mostly Shady,$8.86,122698
+19,Grecian Windflower,Anemone blanda,6,Mostly Shady,$9.16,071099
+20,Bee Balm,Monarda didyma,4,Shade,$4.59,050399
+21,Bergamot,Monarda didyma,4,Shade,$7.16,042799
+22,Black-Eyed Susan,Rudbeckia hirta,Annual,Sunny,$9.80,061899
+23,Buttercup,Ranunculus,4,Shade,$2.57,061099
+24,Crowfoot,Ranunculus,4,Shade,$9.34,040399
+25,Butterfly Weed,Asclepias tuberosa,Annual,Sunny,$2.78,063099
+26,Cinquefoil,Potentilla,Annual,Shade,$7.06,052599
+27,Primrose,Oenothera,3 - 5,Sunny,$6.56,013099
+28,Gentian,Gentiana,4,Sun or Shade,$7.81,051899
+29,Blue Gentian,Gentiana,4,Sun or Shade,$8.56,050299
+30,Jacob's Ladder,Polemonium caeruleum,Annual,Shade,$9.26,022199
+31,Greek Valerian,Polemonium caeruleum,Annual,Shade,$4.36,071499
+32,California Poppy,Eschscholzia californica,Annual,Sun,$7.89,032799
+33,Shooting Star,Dodecatheon,Annual,Mostly Shady,$8.60,051399
+34,Snakeroot,Cimicifuga,Annual,Shade,$5.63,071199
+35,Cardinal Flower,Lobelia cardinalis,2,Shade,$3.02,022299
